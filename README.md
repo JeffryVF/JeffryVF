@@ -1,8 +1,8 @@
-# Welcome / Bienvenidos🚀
+# Welcome 🚀
 
 Hello! I am Jeffry, a passionate software engineering student with a fervent passion for devising innovative and efficient solutions. My dedication is focused on developing high-quality software, solving problems and constantly seeking learning. Through this platform, I share a wide range of projects that reflect my commitment to development and my constant pursuit of excellence in the fascinating world of engineering.
 
-## Technologies / Tecnologías 🛠️
+## Technologies 🛠️
 <div>
     <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
