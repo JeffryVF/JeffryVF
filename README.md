@@ -1,6 +1,6 @@
 # Welcome 🚀
 
-Hello! I am Jeffry, a passionate software engineering student with a fervent passion for devising innovative and efficient solutions. My dedication is focused on developing high-quality software, solving problems and constantly seeking learning. Through this platform, I share a wide range of projects that reflect my commitment to development and my constant pursuit of excellence in the fascinating world of engineering.
+Hello! I am Jeffry, a passionate software engineering student with a fervent passion for devising innovative and efficient solutions. My dedication is focused on developing high-quality software, solving problems and constantly seeking learning. Through this platform, I will share a wide range of projects that reflect my commitment to development and my constant pursuit of excellence in the fascinating world of engineering.
 
 ## Technologies 🛠️
 <div>
