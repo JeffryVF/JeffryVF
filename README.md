@@ -1,4 +1,4 @@
-<img src="./banner.svg">
+<img src="./cover.svg">
 
 # Welcome 🚀
 
